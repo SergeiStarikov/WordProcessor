@@ -1,0 +1,6 @@
+server:
+  port: 8090
+
+cronjob:
+  exp:
+    sentenceService: 0 0/1 * * * ?
